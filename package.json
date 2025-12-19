@@ -1,0 +1,16 @@
+{
+  "name": "capcut-n8n-automation",
+  "version": "1.0.0",
+  "description": "n8n automation setup for DigitalOcean",
+  "scripts": {
+    "start": "n8n start"
+  },
+  "keywords": [
+    "n8n",
+    "automation",
+    "video"
+  ],
+  "author": "",
+  "license": "ISC"
+}
+
